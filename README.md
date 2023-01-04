@@ -1,4 +1,4 @@
-<img src='https://i.ibb.co/Rchs8ww/banner.png'/>
+<img src='https://i.ibb.co/mvzHx95/banner.png'/>
 <h1 align="center">Hello, I'm Rameez Ibrahim</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 <img src='https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif' align='right' width='400'/>

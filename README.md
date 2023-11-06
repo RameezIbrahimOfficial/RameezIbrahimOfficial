@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.JS**
 
-- 💬 Ask me about **HTML, CSS, JS and REACT**
+- 💬 Ask me about **MongoDB, ExpressJS, NodeJS and JavaScript**
 
 - 📫 How to reach me **rameezibrahimofficial@gmail.com**
 
